@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎞️ Wedding Gallery — Wiwin & Niken
 
-## Getting Started
+<p align="center">
+  <img src="./public/images/priview-wedding-galeri.jpeg" alt="Wedding Gallery Preview" width="100%" />
+</p>
 
-First, run the development server:
+<p align="center">
+  A cinematic and immersive wedding gallery experience built with modern web technologies.
+</p>
+
+---
+
+# ✨ Description
+
+Wedding Gallery — Wiwin & Niken is a web-based wedding gallery application designed with a cinematic and immersive storytelling approach.
+
+The website presents memorable moments of the couple through smooth animations, artistic layouts, and meaningful Buddhist spiritual values.
+
+This project focuses on creating an emotional and interactive browsing experience where users can enjoy every section naturally as if watching a visual story.
+
+---
+
+# 🚀 Features
+
+- 🎬 Cinematic Hero Section with smooth zoom and fade animations
+- ↔️ Dual Horizontal Scroll storytelling sections
+- 🖼️ Artistic Masonry Grid gallery layout
+- ☸️ Buddhist Wisdom Integration using Paritta quotes
+- 🎵 Interactive floating music player with sound visualizer
+- 📱 Fully responsive design for mobile, tablet, and desktop
+- ⚡ Optimized image loading using WebP format
+
+---
+
+# 🛠️ Technologies Used
+
+| Technology        | Description                                   |
+| ----------------- | --------------------------------------------- |
+| **Next.js 15**    | Main framework for building the application   |
+| **TypeScript**    | Type-safe and scalable development            |
+| **Framer Motion** | Scroll-linked cinematic animations            |
+| **Tailwind CSS**  | Utility-first CSS framework for styling       |
+| **WebP**          | Optimized image format for better performance |
+
+---
+
+# 🔧 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Dwikalintangn/Wedding-Galleri-Next.js.git
+```
+
+Go to the project directory:
+
+```bash
+cd Wedding-Galleri-Next.js
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open in browser:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# 📄 License
 
-To learn more about Next.js, take a look at the following resources:
+This project is created for personal and portfolio purposes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© 2026 — Dwika Lintang Nugraha
