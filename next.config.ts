@@ -4,9 +4,12 @@ const repoName = "Wedding-Galleri-Next.js";
 
 const nextConfig: NextConfig = {
   output: "export",
+
   basePath: `/${repoName}`,
   assetPrefix: `/${repoName}/`,
+
   trailingSlash: true,
+
   images: {
     unoptimized: true,
   },
